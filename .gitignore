@@ -50,6 +50,6 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# (CC Journey task) additions
+# (CC Journey task) additions #
 temp/
 *.tmp
